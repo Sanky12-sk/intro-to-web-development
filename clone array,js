@@ -1,0 +1,4 @@
+let array=[1, 2, 4, 0];
+console.log('The original array is: '+array);
+let clone=[...array];
+console.log('The clone of this above array is: '+clone)
